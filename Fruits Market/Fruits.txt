@@ -1,0 +1,5 @@
+Apples,20,Apples.JPG,DarkRed
+Oranges,15,Oranges.JPG,Orange
+Bananas,35,Bananas.JPG,Yellow
+Kiwi,100,C:\Users\mahmoud\source\repos\Forms\Forms\bin\Debug\Kiwi.jpg,Brown
+Mangos,175,C:\Users\mahmoud\source\repos\Forms\Forms\bin\Debug\Mango.jpg,darkorange
